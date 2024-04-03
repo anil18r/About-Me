@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, It's M1S0</h1>
+<h1 align="center">Hi 👋, It's Anilkumar Rajak</h1>
 <h3 align="center">A passionate Bug Hunter | Researcher | Penetration Tester</h3>
 <img align="right" width="400px" src="https://media.tenor.com/j1361C75IdkAAAAd/hacker.gif" />
 <p align="left"> <a href="https://twitter.com/unknownmnz" target="blank"><img src="https://img.shields.io/twitter/follow/unknownmnz?logo=twitter&style=for-the-badge" alt="unknownmnz" /></a> </p>
